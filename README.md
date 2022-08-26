@@ -2,6 +2,10 @@
 
 https://www.youtube.com/watch?v=X8U-6RuZMW8
 
+https://raw.githubusercontent.com/RodrigoMvs123/Triggering-an-AWS-Lambda-Function-For-S3-/main/README.md
+
+
+
 Index.js
 
 const s3 = require('@aws-sdk/client-s3');

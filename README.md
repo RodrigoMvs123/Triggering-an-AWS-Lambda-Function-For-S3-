@@ -9,6 +9,7 @@ https://github.com/RodrigoMvs123/Triggering-an-AWS-Lambda-Function-For-S3-/blame
 
 https://docs.aws.amazon.com/AmazonS3/latest/userguide/create-bucket-overview.html
 https://docs.aws.amazon.com/lambda/latest/dg/getting-started.html
+https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/WhatIsCloudWatch.html
 
 Index.js
 

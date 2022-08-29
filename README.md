@@ -8,6 +8,7 @@ https://raw.githubusercontent.com/RodrigoMvs123/Triggering-an-AWS-Lambda-Functio
 https://github.com/RodrigoMvs123/Triggering-an-AWS-Lambda-Function-For-S3-/blame/main/README.md
 
 https://docs.aws.amazon.com/AmazonS3/latest/userguide/create-bucket-overview.html
+https://docs.aws.amazon.com/lambda/latest/dg/getting-started.html
 
 Index.js
 

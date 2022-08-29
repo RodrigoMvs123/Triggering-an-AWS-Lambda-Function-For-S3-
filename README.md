@@ -7,6 +7,8 @@ https://raw.githubusercontent.com/RodrigoMvs123/Triggering-an-AWS-Lambda-Functio
 
 https://github.com/RodrigoMvs123/Triggering-an-AWS-Lambda-Function-For-S3-/blame/main/README.md
 
+https://docs.aws.amazon.com/AmazonS3/latest/userguide/create-bucket-overview.html
+
 Index.js
 
 const s3 = require('@aws-sdk/client-s3');
